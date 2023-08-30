@@ -1,2 +1,3 @@
 # HackerRankSQL
-Hacker Rank SQL Solutions
+This repository contains the programs solutions asked in SQL in hacker rank
+
